@@ -448,6 +448,7 @@ body:active .mouse-circle {
 	.home-chair-caption {
 		bottom: 20%;
 		left: 60%;
+		cursor: pointer;
 	}
 }
 
@@ -706,6 +707,14 @@ body:active .mouse-circle {
 	font-size: 14px;
 	font-family: 'Diatype Mono', monospace;
 }
+@media only screen and (max-width: 800px) {
+	.interview-image-header {
+		height: unset;
+	}
+	.interview-image-header-overlay {
+		display: none;
+	}
+}
 
 /* Interview text */
 .interview-text-header {
@@ -743,6 +752,7 @@ body:active .mouse-circle {
 	font-size: 24px;
 	gap: 1em;
 	padding: 50px;
+	word-break: break-all;
 }
 .interview-text-content-lead {
 	font-weight: bold;
@@ -768,11 +778,18 @@ body:active .mouse-circle {
 	opacity: .5;
 }
 @media only screen and (max-width: 800px) {
+	.interview-text-header {
+		padding: 30px;
+	}
 	.interview-text-header-quote {
 		font-size: 10vw;
 	}
 	.interview-text-highlight, .interview-text-content a {
 		cursor: pointer;
+	}
+	.interview-text-content {
+		font-size: 18px;
+		padding: 30px;
 	}
 }
 
@@ -848,6 +865,8 @@ body:active .mouse-circle {
 		width: 100vw;
 	}
 	.interview-popup {
-		width: 80%;
+		width: 100%;
+		max-width: calc(100% - 40px);
+		max-height: calc(100% - 40px);
 	}
 }
