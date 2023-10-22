@@ -650,3 +650,204 @@ body:active .mouse-circle {
 .lightbox-close:active {
 	opacity: .5;
 }
+
+/* Interview template */
+.interview-container {
+	display: grid;
+	grid-template-columns: minmax(0,1fr) minmax(0,1fr);
+	height: calc(100dvh - 45px);
+}
+.interview-images, .interview-text {
+	position: relative;
+	overflow-y: scroll;
+	height: calc(100dvh - 45px);
+}
+@media only screen and (max-width: 800px) {
+	.interview-container {
+		grid-template-columns: 1fr;
+	}
+	.interview-images, .interview-text {
+		overflow-y: unset;
+		height: unset;
+	}
+	.interview-images {
+		order: 2;
+	}
+}
+
+/* Interview images */
+.interview-images {
+	display: flex;
+	flex-direction: column;
+}
+.interview-image-header {
+	height: calc(100dvh - 45px);
+}
+.interview-image-header-overlay {
+	background: linear-gradient(0deg, yellow 0%, transparent 20%);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.interview-images figure {
+	position: relative;
+}
+.interview-images img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.interview-images figcaption {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	font-size: 14px;
+	font-family: 'Diatype Mono', monospace;
+}
+
+/* Interview text */
+.interview-text-header {
+	height: calc(100dvh - 45px);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 50px;
+}
+.interview-text-header-date {
+	font-size: 14px;
+	font-family: 'Diatype Mono', monospace;
+	margin-bottom: 5px;
+}
+.interview-text-header-title {
+	font-size: 24px;
+}
+.interview-text-header-quote {
+	font-size: 5vw;
+	line-height: 1em;
+	font-weight: normal;
+	position: relative;
+}
+.interview-text-header-quote:before {
+	content: '“';
+	position: absolute;
+	margin-left: -.4em;
+}
+.interview-text-header-quote:after {
+	content: '”';
+}
+.interview-text-content {
+	display: flex;
+	flex-direction: column;
+	font-size: 24px;
+	gap: 1em;
+	padding: 50px;
+}
+.interview-text-content-lead {
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+.interview-text-content a {
+	color: var(--black);
+}
+.interview-text-content a:hover {
+	opacity: .5;
+}
+.interview-text-content a:active {
+	opacity: .25;
+}
+.interview-text-highlight {
+	background-color: var(--highlight);
+}
+.interview-text-highlight:hover {
+	background-color: var(--black);
+	color: var(--highlight);
+}
+.interview-text-highlight:active {
+	opacity: .5;
+}
+@media only screen and (max-width: 800px) {
+	.interview-text-header-quote {
+		font-size: 10vw;
+	}
+	.interview-text-highlight, .interview-text-content a {
+		cursor: pointer;
+	}
+}
+
+/* Interview popup images */
+.interview-popups {
+	position: absolute;
+	top: 45px;
+	left: 0;
+	width: 50vw;
+	height: calc(100dvh - 45px);
+	pointer-events: none;
+}
+.interview-popup {
+	pointer-events: all;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	max-width: 100%;
+	display: flex;
+	flex-direction: column;
+	background-color: var(--highlight);
+	padding: 40px;
+	align-items: center;
+	max-width: calc(100% - 80px);
+	max-height: calc(100% - 80px);
+	overflow-y: scroll;
+}
+.interview-popup[data-active="0"] {
+	display: none;
+}
+.interview-popup-close {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-size: 14px;
+	font-family: 'Diatype Mono', monospace;
+	background-color: var(--highlight);
+	padding: 4px 2px 5px 2px;
+}
+.interview-popup-close:hover {
+	background-color: var(--black);
+	color: var(--highlight);
+}
+.interview-popup-close:active {
+	opacity: .5;
+}
+.interview-popup img {
+	object-fit: contain;
+	min-height: 200px;
+	width: fit-content;
+}
+.interview-popup figcaption {
+	width: 100%;
+	font-size: 14px;
+	margin-top: 2em;
+}
+.interview-popup figcaption h4 {
+	margin-bottom: 5px;
+}
+.interview-popup figcaption a {
+	color: var(--black);
+}
+.interview-popup figcaption a:hover {
+	opacity: .5;
+}
+.interview-popup figcaption a:active {
+	opacity: .25;
+}
+@media only screen and (max-width: 800px) {
+	.interview-popups {
+		position: fixed;
+		width: 100vw;
+	}
+	.interview-popup {
+		width: 80%;
+	}
+}
