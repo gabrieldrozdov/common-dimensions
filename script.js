@@ -85,8 +85,3 @@ function closeInfo() {
 	let info = document.querySelector('.info');
 	info.dataset.open = 0;
 }
-
-
-
-// TODO
-// header interview dropdown broken on mobile

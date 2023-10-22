@@ -113,7 +113,12 @@ function highlightItems() {
 
 // Create masonry grid
 let reposition;
+let prevWidth = 0;
 function libraryMasonry() {
+	if (prevWidth == window.innerWidth) {
+		return
+	}
+	prevWidth = window.innerWidth;
 	clearTimeout(reposition);
 	let libraryContent = document.querySelector('.library-content');
 	let libraryItems = document.querySelectorAll('.library-item');

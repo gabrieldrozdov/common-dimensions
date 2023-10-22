@@ -57,6 +57,7 @@ button {
 	background-color: unset;
 	text-align: unset;
 	font-size: 14px;
+	color: var(--black);
 }
 img {
 	max-width: 100%;
@@ -263,6 +264,7 @@ body:active .mouse-circle {
 @media only screen and (max-width: 800px) {
 	.nav {
 		overflow-x: scroll;
+		position: relative;
 	}
 	.nav a {
 		cursor: pointer;
@@ -658,10 +660,15 @@ body:active .mouse-circle {
 	grid-template-columns: minmax(0,1fr) minmax(0,1fr);
 	height: calc(100dvh - 45px);
 }
+.interview-images::-webkit-scrollbar, .interview-text::-webkit-scrollbar {
+	display: none;
+}
 .interview-images, .interview-text {
 	position: relative;
 	overflow-y: scroll;
 	height: calc(100dvh - 45px);
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
 }
 @media only screen and (max-width: 800px) {
 	.interview-container {
