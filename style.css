@@ -264,7 +264,6 @@ body:active .mouse-circle {
 @media only screen and (max-width: 800px) {
 	.nav {
 		overflow-x: scroll;
-		position: relative;
 	}
 	.nav a {
 		cursor: pointer;
@@ -877,3 +876,7 @@ body:active .mouse-circle {
 		max-height: calc(100% - 40px);
 	}
 }
+
+
+/* TODO */
+/* Fix nav */
