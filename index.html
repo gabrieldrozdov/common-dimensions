@@ -8,68 +8,20 @@
 	<link rel="icon" type="png" href="/assets/meta/favicon.png">
 </head>
 <body>
+	<div class="template template-home"></div>
 
-	<div class="mouse" data-hide="1">
-		<div class="mouse-circle" style="top: 0px; left: 0px;"></div>
-		<div class="mouse-crosshair" style="top: 0px; left: 0px;">
-			<div class="mouse-crosshair-x"></div>
-			<div class="mouse-crosshair-y"></div>
-		</div>
-	</div>
-
-	<nav class="nav nav-home">
-		<h1><a href="/">Common Dimensions</a></h1>
-		<a href="/library/">Library</a>
-		<div class="nav-submenu">
-			<div class="nav-submenu-label">Interviews</div>
-			<div class="nav-submenu-links">
-				<a href="#">
-					<span>09.11.2022</span>
-					<span>Bill Carroll, <em>Dust Chair</em></span>
-				</a>
-				<a href="#">
-					<span>03.25.2023</span>
-					<span>Maxwell Fertik, <em>Dis-Assembly Chair</em></span>
-				</a>
-				<a href="#">
-					<span>06.09.2023</span>
-					<span>Markus Berger, <em>Repair Atelier</em></span>
-				</a>
-				<a href="#">
-					<span>08.22.2023</span>
-					<span>Spenser Atlas, <em>Riveted Chair</em></span>
-				</a>
-				<a href="#">
-					<span>12.13.2023</span>
-					<span>Liam Crockart, <em>Offcuts Furniture</em></span>
-				</a>
-			</div>
-		</div>
-		<a href="/reader/">Reader</a>
-		<div class="nav-spacer"></div>
-		<button class="nav-plus" onclick="openInfo();">
-			<div class="nav-plus-x"></div>
-			<div class="nav-plus-y"></div>
-		</button>
-	</nav>
-
-	<div class="info" data-open="0">
-		<div class="info-content">
-			<button class="info-close" onclick="closeInfo();">[X]</button>
-			<p>
-				Common Dimensions is a project that investigates the nature of the chair as a symbolic, discursive, and physical object, as well as a design artifact. Pellentesque ut mi non tellus convallis semper non in magna. Aliquam nec mi tincidunt, posuere ligula a, malesuada quam. Sed maximus malesuada est, lobortis auctor nulla mattis ac. Donec blandit metus ligula, a hendrerit massa venenatis at. Integer sed aliquam risus. Integer est sy condimentum id ipsum non el formidal est it alia porttitor. Fusce venenatis libero eget lorem convallis,  porta ante placerat. Integer sit amet erat eget nulla elementum bibendum sed sed dui. Cras venenatis metus et a metus, gravida cursus lorem porttitor ola eu. Pellentesque vehicula gravida enim ac finibus. Duis ultrices in urna sit amet fabia est unt el iaculis.
-			</p>
-			<p>
-				Praesent condimentum odio sit amet condimentum finibus. Praesent et non semper est. Mauris laoreet, diam ac luctus porta, risus dolor laoreet magna, ut commodo lorem purus ut eros. Set perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo er ipsam voluptatem quia voluptas consequntur malo.
-			</p>
-			<p>
-				To get in touch, or to suggest an addition to the archive, email us <a href="mailto:atchairs@commondimensions.com">atchairs@commondimensions.com</a>
-			</p>
-		</div>
-	</div>
+	<button class="home-info-toggle" onclick="openInfo();"></button>
 
 	<main class="home-container">
 		<h2 class="home-questions"></h2>
+		<button href="interviews/" class="home-chair-close" onclick="closeChair();">[X]</button>
+		<div class="home-chair">
+			<img src="/assets/home/chair2.png" class="home-chair-interactive">
+		</div>
+		<a href="interviews/" class="home-chair-caption">
+			<span><span>DUST CHAIR</span> ↗<br></span>
+			<span>Bill Carroll (2022)</span>
+		</a>
 	</main>
 
 	<script src="/script.js"></script>

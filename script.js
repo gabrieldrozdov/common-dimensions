@@ -1,3 +1,13 @@
+// Fetch template structure and add to DOM
+fetch('/template.html')
+	.then((response) => response.text())
+	.then((text) => {
+		let template = document.querySelector('.template');
+		template.innerHTML = text;
+		document.addEventListener('mousemove', (e) => {setMousePos(e)});
+		refreshHoverEffects();
+	})
+
 // Get mouse position and move custom cursor if not in final position
 let mousePos = [window.innerWidth/2, window.innerHeight/2];
 let mouseLoop = false;
@@ -41,7 +51,6 @@ function moveCursor() {
 		}
 	}, 8) // 120fps
 }
-document.addEventListener('mousemove', (e) => {setMousePos(e)});
 
 // Mouse cursor hover effect
 function refreshHoverEffects() {
@@ -66,7 +75,6 @@ function deactivateMouse() {
 	let mouse = document.querySelector('.mouse');
 	mouse.dataset.active = 0;
 }
-refreshHoverEffects();
 
 // Info panel
 function openInfo() {
