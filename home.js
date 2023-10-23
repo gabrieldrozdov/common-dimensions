@@ -6,7 +6,8 @@ let questions = [
 	'What’s the point of designing another chair?'
 ]
 let homeQuestions = document.querySelector('.home-questions');
-let currentQuestion = Math.floor(Math.random()*questions.length);
+// let currentQuestion = Math.floor(Math.random()*questions.length); // random order
+let currentQuestion = 0;
 let writeIn, writeOut;
 function questionIn() {
 	let remainingWords = questions[currentQuestion].split(' ');

@@ -85,3 +85,15 @@ function closeInfo() {
 	let info = document.querySelector('.info');
 	info.dataset.open = 0;
 }
+
+
+
+
+
+// TODO
+// underline menu item when on page
+// library lightbox add text below
+// remove titles from uppercase, will be handled in spreadsheet
+// mobile menu just say "menu" and then open vertical menu
+// remove scrollbar on popup for interview
+// remove gradient on images for interview
