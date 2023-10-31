@@ -7,30 +7,33 @@
 </div>
 
 <nav class="nav">
-	<h1><a href="/">Common Dimensions</a></h1>
-	<a href="/library/">Library</a>
-	<div class="nav-submenu">
-		<div class="nav-submenu-label">Interviews</div>
-		<div class="nav-submenu-links">
-			<a href="/interviews/bill-carroll/">
-				<span>09.11.2022</span>
-				<span>Bill Carroll, <em>Dust Chair</em></span>
-			</a>
-			<a href="/interviews/maxwell-fertik/">
-				<span>03.25.2023</span>
-				<span>Maxwell Fertik, <em>Dis-Assembly Chair</em></span>
-			</a>
-			<a href="/interviews/markus-berger/">
-				<span>06.09.2023</span>
-				<span>Markus Berger, <em>Repair Atelier</em></span>
-			</a>
-			<a href="/interviews/spenser-atlas/">
-				<span>08.22.2023</span>
-				<span>Spenser Atlas, <em>Riveted Chair</em></span>
-			</a>
+	<h1 id="nav-home"><a href="/" class="nav-link">Common Dimensions</a></h1>
+	<div class="nav-mobile-toggle hover" onclick="toggleMenu();">Menu</div>
+	<div class="nav-mobile">
+		<a href="/library/" id="nav-library" class="nav-link">Library</a>
+		<div class="nav-submenu">
+			<div class="nav-submenu-label nav-link" id="nav-interviews">Interviews</div>
+			<div class="nav-submenu-links">
+				<a href="/interviews/bill-carroll/" id="nav-bill-carroll" class="nav-link">
+					<span>09.11.2022</span>
+					<span>Bill Carroll, <em>Dust Chair</em></span>
+				</a>
+				<a href="/interviews/maxwell-fertik/" id="nav-maxwell-fertik" class="nav-link">
+					<span>03.25.2023</span>
+					<span>Maxwell Fertik, <em>Dis-Assembly Chair</em></span>
+				</a>
+				<a href="/interviews/markus-berger/" id="nav-markus-berger" class="nav-link">
+					<span>06.09.2023</span>
+					<span>Markus Berger, <em>Repair Atelier</em></span>
+				</a>
+				<a href="/interviews/spenser-atlas/" id="nav-spenser-atlas" class="nav-link">
+					<span>08.22.2023</span>
+					<span>Spenser Atlas, <em>Riveted Chair</em></span>
+				</a>
+			</div>
 		</div>
+		<a href="/reader/" id="nav-reader" class="nav-link">Reader</a>
 	</div>
-	<a href="/reader/">Reader</a>
 	<div class="nav-spacer"></div>
 	<button class="nav-plus" onclick="openInfo();">
 		<div class="nav-plus-x"></div>

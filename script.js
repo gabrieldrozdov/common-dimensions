@@ -6,6 +6,7 @@ fetch('/template.html')
 		template.innerHTML = text;
 		document.addEventListener('mousemove', (e) => {setMousePos(e)});
 		refreshHoverEffects();
+		setActiveNav();
 	})
 
 // Get mouse position and move custom cursor if not in final position
@@ -86,14 +87,41 @@ function closeInfo() {
 	info.dataset.open = 0;
 }
 
+// Detect active nav link
+function setActiveNav() {
+	let paths = window.location.pathname.split('/').filter(text => text.length > 0);
+	if (paths.length > 0) {
+		for (let path of paths) {
+			let activeNav = document.querySelector("#nav-" + path);
+			activeNav.dataset.active = 1;
+		}
+	} else {
+		let activeNav = document.querySelector("#nav-home");
+		activeNav.dataset.active = 1;
+	}
+}
+
+// Mobile nav menu
+function toggleMenu() {
+	console.log(1)
+	let navToggle = document.querySelector('.nav-mobile-toggle');
+	let navMenu = document.querySelector('.nav-mobile');
+	if (parseInt(navToggle.dataset.active) == 1) {
+		navToggle.dataset.active = 0;
+		navMenu.dataset.active = 0;
+	} else {
+		navToggle.dataset.active = 1;
+		navMenu.dataset.active = 1;
+	}
+}
 
 
 
 
 // TODO
-// underline menu item when on page
 // library lightbox add text below
-// remove titles from uppercase, will be handled in spreadsheet
-// mobile menu just say "menu" and then open vertical menu
-// remove scrollbar on popup for interview
-// remove gradient on images for interview
+// seriously need to fix navbar styling it's a mess
+// fix masonry not calculating heights correctly
+
+// READER
+// on mobile show the tabs as things get navigated to
