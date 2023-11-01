@@ -46,7 +46,7 @@ function spinChair(e) {
 	if (window.innerWidth >= 600) {
 		let chair = document.querySelector('.home-chair-interactive');
 		let percent = e.clientX/window.innerWidth;
-		let chairNumber = Math.floor(percent*18+1);
+		let chairNumber = Math.floor(percent*68);
 		chair.src = `/assets/home/chair${chairNumber}.png`;
 		let chairRotation = 30 + percent*-60;
 		chair.style.transform = `rotate(${chairRotation}deg)`;
@@ -56,7 +56,7 @@ function spinChair(e) {
 		chairCaption.style.transform = `translateX(${chairCaptionPos}vw)`;
 	
 		let chairClose = document.querySelector('.home-chair-close');
-		let chairClosePos = percent*-20;
+		let chairClosePos = percent*15-10;
 		chairClose.style.transform = `translateX(${chairClosePos}vw)`;
 	}
 }

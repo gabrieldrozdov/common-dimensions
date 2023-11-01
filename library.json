@@ -1,146 +1,452 @@
 [
   {
-    "title": "40/04 Chair",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "40/4 CHAIR, David Rowland (1964)",
+    "description": "The 40/4 is a compactly stackable chair. Forty chairs can be stacked within 4 feet. Introduced in 1964 after almost a decade of development, the 40/4 is now in the permanent collection of the MoMA in New York and other museums worldwide.",
     "image": "40_4_chair_stacked.jpg",
-    "tags": "Mass-Produced, Modern"
+    "tags": "Mass-Produced, Useful, Boring"
   },
   {
-    "title": "All Thumbs, Liam Crockard",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "title": "ALL THUMBS: CHAIR, Liam Crockard (2015-19)",
+    "description": "This piece from Crockard’s All Thumbs series is made from offcuts sourced from a local trade-school and a dumpster near the artist’s studio. It takes found material and reconstructs it into the most ubiquitous of all design objects—the chair.",
     "image": "all_thumbs_chair_liam_crockard.jpg",
     "tags": "Art, Conceptual, Repair"
   },
   {
-    "title": "Chair Event from Water Yam, George Brecht (1963)",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "image": "brecht_chair_event.jpg",
+    "title": "ALL THUMBS: CHAIR, Liam Crockard (2015-19)",
+    "description": "This piece from Crockard’s All Thumbs series is made from offcuts sourced from a local trade-school and a dumpster near the artist’s studio. It takes found material and reconstructs it into the most ubiquitous of all design objects—the chair.",
+    "image": "all_thumbs_chair_liam_crockard_2.jpg",
+    "tags": "Art, Conceptual, Repair"
+  },
+  {
+    "title": "CHAIR EVENT FROM WATER YAM, George Brecht (1963)",
+    "description": "This event score is one piece from Fluxus artist George Brecht Water Yam artist book (a.k.a. Fluxkit). One of many “Chair Events”, this particular score is open-ended and can be performed in public or private and leaves space for imagination, chance and indeterminacy.",
+    "image": "brecht_chair_event2.jpg",
     "tags": "Art, Conceptual, Rhetorical, Performative, Instructions"
   },
   {
-    "title": "Chair for Human Use with Chair for Spirit Use (1), Marina Abromović (2012)",
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
-    "image": "chair_marina_abromovic.jpg",
+    "title": "CHAIR FOR HUMAN USE WITH CHAIR FOR SPIRIT USE WITH CHAIR FOR SPIRIT USE (2), Marina Abromović (2012)",
+    "description": "Employing duration, pain, danger, exhaustion, and viewer participation, Marina Abromović works at extremes, complicating the relationship between art and audience.",
+    "image": "chair_marina_abromovic2.jpg",
     "tags": "Art, Performative, Spiritual"
   },
   {
-    "title": "Donald Judd Chairs",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "CHAIRS, Donald Judd (1977-1984)",
+    "description": "Collection of Donald Judd chairs including the Front Recessed Chair, the Forward Slant Chair, The Open Side Chair, the Front Shelf Chair and others.",
     "image": "donald_judd_chair.jpg",
     "tags": "Art, Study, Boring, DIY"
   },
   {
-    "title": "DRM Chair",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    "image": "drm_chair.jpg",
-    "tags": "Performative, Conceptual"
+    "title": "OPEN SIDE CHAIR 84 (Dimensions), Donald Judd (1982)",
+    "description": "Specifications for the construction of the Open Side Chair 84.",
+    "image": "donald_judd_chair_dimensions.jpg",
+    "tags": "DIY, Instructions"
   },
   {
-    "title": "Dust Chair, Bill Carroll (2020)",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "title": "DRM CHAIR, Les Sugus (2013)",
+    "description": "The DRM Chair can be sat down on 8 times before it self-destructs. A sensor detects when someone sits and decrements a counter. When reaching zero, the self-destruct system is turned on and the structural joints of the chair are melted.",
+    "image": "drm_chair.jpg",
+    "tags": "Performative, Conceptual, Mechanical"
+  },
+  {
+    "title": "DRM CHAIR, Les Sugus (2013)",
+    "description": "The DRM Chair can be sat down on 8 times before it self-destructs. A sensor detects when someone sits and decrements a counter. When reaching zero, the self-destruct system is turned on and the structural joints of the chair are melted.",
+    "image": "drm_chair2.jpg",
+    "tags": "Performative, Conceptual, Mechanical"
+  },
+  {
+    "title": "DUST CHAIR, Bill Carroll (2021)",
+    "description": "Dust Chair is an exploration in using discarded pieces to create a meaningful whole. Informed by the process of quilting, ‘dust chair’ is made up of sawdust and wood chips, patched together and shaped into a simple chair form.",
     "image": "dust_chair_bill_carroll.jpg",
     "tags": "Waste, Art, Material"
   },
   {
-    "title": "Electric Chair",
+    "title": "ELECTRIC CHAIR (1888)",
     "description": "A June 30, 1888, Scientific American illustration of what the electric chair suggested by the Gerry Commission might look like.",
     "image": "electric_chair_1.jpg",
     "tags": "Violent, Power, Political"
   },
   {
-    "title": "Autoprogettazione Chair, Enzo Mari",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "image": "enzo_mari_autoprogettazione_chair.jpg",
+    "title": "SEDIA 1 (Autoprogettazione), Enzo Mari (1974)",
+    "description": "Autoprogettazione was conceived as a “practical-critical exercise” in raising awareness for the design process behind consumer items. Each piece of furniture had an inherent “structural reasoning” which served to highlight functional attributes over form.",
+    "image": "enzo_mari_autoprogettazione_chair2.jpg",
     "tags": "DIY, Work, Art, Instructions"
   },
   {
-    "title": "Execution Chair",
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+    "title": "SEDIA 1 (Autoprogettazione), Enzo Mari (1974)",
+    "description": "Autoprogettazione was conceived as a “practical-critical exercise” in raising awareness for the design process behind consumer items. Each piece of furniture had an inherent “structural reasoning” which served to highlight functional attributes over form.",
+    "image": "enzo_mari_autoprogettazione_chair.jpg",
+    "tags": "DIY, Useful"
+  },
+  {
+    "title": "RED HAT CELL BLOCK ELECTRIC CHAIR (1933-1972)",
+    "description": "The electric chair is a device employed for carrying out capital punishment through the process of electrocution. During its use, the individual sentenced to death is strapped to a wooden chair and electrocuted via strategically positioned electrodes affixed to the head and leg. This method of execution was conceptualized by Alfred P. Southwick, a dentist based in Buffalo, New York, in 1881. The electric chair has been closely associated with the history of capital punishment in the United States",
     "image": "execution_chair.jpg",
     "tags": "Violent, Power, Political"
   },
   {
-    "title": "Hole Punch Chair, Spenser Atlas (2022)",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "HAILE SELASSIE’S PILLOW BEARER",
+    "description": "Whenever Ethiopian Emperor Haile Selassie (1892-1975) would enter the hall, His Majesty would take his place on the throne. As soon as he had seated himself, a pillow-bearer would slide a cushion under his feet so as not to leave the monarch’s legs hanging in the air for even a moment.",
+    "image": "haile_selassie_throne.jpg",
+    "tags": "Power, Political, Public"
+  },
+  {
+    "title": "HOLE PUNCH CHAIR, Spenser Atlas (2022)",
+    "description": "Chair made of Baltic birch plywood and laminate.",
     "image": "hole_punch_spenser_atlas.jpg",
     "tags": "Rhetorical, Study"
   },
   {
-    "title": "Huey Newton’s Throne",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "title": "HUEY P. NEWTON’S THRONE, Eldridge Cleaver (1967)",
+    "description": "On May 15, 1967 in Oakland, CA, this photograph of Huey P. Newton (composed by Eldridge Cleaver) was published in the the 2nd edition of “The Black Panther” newspaper. Holding a spear in one hand and a rifle in the other, and with traditional West African shields on either side, Newton is defiantly seated in a rattan peacock chair.",
     "image": "huey_newton_throne.jpg",
-    "tags": "Political, Power, Performative"
+    "tags": "Political, Power, Public"
   },
   {
-    "title": "Industrial Chairs, Theju Nimmagadda (2022)",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "title": "INDUSTRIAL CHAIRS, Theju Nimmagadda (2022)",
+    "description": "Through an investigation of the alloy of material and form, Nimmagadda’s work exposes the sleight of hand performed by the lumber industry, dwelling with wood-as-tree and following the course of materials from silviculture to the consumer product.",
     "image": "industrial_chairs_theju_nimmagadda.jpg",
     "tags": "Study, Material"
   },
   {
-    "title": "Monobloc Chair",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "image": "monobloc_chair.jpg",
+    "title": "MONOBLOC CHAIR, D.C. Simpson (1970s)",
+    "description": "The Monobloc is a lightweight, one-piece, stackable polypropylene chair often described as the world’s most common chair.",
+    "image": "Monobloc_Chair.jpg",
     "tags": "Mass-Produced, Useful, Boring"
   },
   {
-    "title": "One and Three Chairs, Joseph Kosuth (1965)",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "FAUTEUIL 300 / MONOBLOC, Henry Massonnet (1972)",
+    "description": "This stackable plastic chair established a particular type of furniture—a single-piece, single-step injection moulded chair. The Fauteuil 200 was not popular initially as its introduction coincided with the first oil crisis in the early 1970s.",
+    "image": "fauteuil_300.jpg",
+    "tags": "Mass-Produced, Useful, Boring"
+  },
+  {
+    "title": "ONE AND THREE CHAIRS, Joseph Kosuth (1965)",
+    "description": "One and Three chairs consists of a chair, a photograph of the chair, and a dictionary definition of the word “chair”. Perhaps all three are chairs, or codes for one: a visual code, a verbal code, and a code in the language of objects, that is, a chair of wood.",
     "image": "one_and_three_chairs_joseph_kosuth.jpg",
     "tags": "Art, Conceptual, Rhetorical"
   },
   {
-    "title": "Pulley System, Theju Nimmagadda (2022)",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "title": "PULLEY SYSTEM, Theju Nimmagadda (2021)",
+    "description": "Pulley System is a bench (?) made out of laminated Birch veneer.",
     "image": "pulley_system_chair.jpg",
     "tags": "Study, Material, Conceptual"
   },
   {
-    "title": "Rag Chair, Tejo Remy (1991)",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "RAG CHAIR, Tejo Remy (1991)",
+    "description": "Tejo Remy rag chair is intended for personalization: people provide their own rags, in return for which they receive a ‘treasured chest of memories’. In some instances, Remy makes a copy of the chair using the contents of fifteen bags worth of clothes from a second-hand shop – reusing as a way of criticising overconsumption.",
     "image": "rag_chair.jpg",
     "tags": "Waste, Material, Performative"
   },
   {
-    "title": "Marcel Brauer Chair, Repair Atelier",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "title": "MARCEL BREUER CESCA CHAIR (Modified), Repair Atelier",
+    "description": "Repair Atelier investigates ideas of (adaptive) reuse. The collective reactivates discarded and broken objects, transforming them and in the process repairing not just objects but also the communities that form around them.",
     "image": "repair_atelier_marcel_brauer.jpg",
-    "tags": "Repair, Modern, Art, Collage"
+    "tags": "Repair, Art, Collage"
   },
   {
-    "title": "Riveted Chair, Spenser Atlas (2022)",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "title": "RIVETED CHAIR, Spenser Atlas",
+    "description": "An experimental prototype built within a strict set of limitations, this chair was made using only sheet steal (metal woven strips) and cold connections (yellow pop rivets).",
     "image": "rivet_chair.jpg",
     "tags": "Modular, Material, Study"
   },
   {
-    "title": "Thonet Chair (Deconstructed)",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "title": "NO. 14 CHAIR (Deconstructed), Michael Thonet (1859)",
+    "description": "Also known as the 'bistro chair', No. 14  was first introduced in 1859 and it widely known as the world's first mass-produced item of furniture. Its construction requires only 6 pieces of wood, 10 screws, and 2 nuts. The wood was chemically treated with steam in order to be curved in shape (steam-bending). The No. 14 could be mass-produced by unskilled workers, and disassembled to save space during transportation",
     "image": "thonet_chair_packaged.jpg",
-    "tags": "Modular, Deconstructed, Mass-Produced, Historical"
+    "tags": "Modular, Deconstructed, Mass-Produced"
   },
   {
-    "title": "Woman with mask, Oskar Schlemmer",
-    "description": "Erich Consemüller, Woman with mask by Oskar Schlemmer on Marcel Breuer’s Wassily Chair (ca. 1926; Berlin, Bauhaus-Archiv)",
+    "title": "WOMAN WEARING A MASK SEATED ON A B3 CHAIR, Oskar Schlemmer (1926)",
+    "description": "This photo by Oskar Schlemmer features a masked woman seated on Marcel Breuer’s B3 Club Chair (also known as the Wassily Chair) ca. 1926.",
     "image": "wassili_chair_bahaus_mask.jpg",
     "tags": "Modern, Performative, Art"
   },
   {
-    "title": "Chair from the SC Johnson Wax Building, Frank Lloyd Wright (1937)",
+    "title": "SC JOHNSON WAX BUILDING CHAIR, Frank Lloyd Wright (1937)",
     "description": "From 1936 to 1939 Wright designed the SC Johnson & Son Administration Building in Racine, Wisconsin, manufacturer of household cleaning products, notably wood paste wax. He also created over 40 pieces of furniture for the building, including this office chair.",
     "image": "scjohnson_wax_chair.jpg",
     "tags": "Modern, Work, Useful"
   },
   {
-    "title": "Bel Air Chair, Peter Shire (1981)",
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+    "title": "BEL AIR CHAIR, Peter Shire (1982)",
+    "description": "Emblematic of the Memphis Group style, this chair by California designer Peter Shire was inspired by the shape of shark fins as well as the Stevens House (Malibu, CA) by architect John Lautner. The chair’s title was borrowed from the name of a luxury hotel in Beverly Hills, CA.",
     "image": "belair_chair.jpg",
     "tags": "Funny, Bizarre, Noisy"
   },
   {
-    "title": "Bonnet Chair, Katie Stout",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "title": "BONNET CHAIR 1, Katie Stout (2020)",
+    "description": "This chair is made from 3M reflective fabric, vinyl, batting, and organza.",
     "image": "bonnet_chair_katie_stout.jpg",
     "tags": "Material, Bizarre, Art"
+  },
+  {
+    "title": "BLOFELD ON THE 6250 (1967)",
+    "description": "Film still from James Bond: You Only Live Twice (1967) featuring iconic supervillain Ernst Stavro Blofeld sitting in the 6250 swivel armchair by British company G Plan (1962).",
+    "image": "blofeld_gplan_chair.jpg",
+    "tags": "Performative, Power"
+  },
+  {
+    "title": "SEEKING COMFORT IN AN UNCOMFORTABLE CHAIR, Bruno Munari (1944)",
+    "description": "“Twentieth century armchairs full of corners, physiological armchairs in which people who move get lost, armchairs in chrome tubes, wood, elephant’s teeth. But tell us the truth: isn't it relaxing to sit on a cheap (100 lire) and ordinary lounge chair? Yet the bourgeoisie does not want one in their homes because it is vulgar — unless it is in silver metal and covered in snakeskin.”",
+    "image": "discomfort_bruno_munari.jpg",
+    "tags": "Performative, Funny"
+  },
+  {
+    "title": "WHOOSHY CHAIRS, Jacques Tati’s Playtime (1967)",
+    "description": "Monsieur Hulot is disturbed by curiously noisy chairs while he waits alone in an cold, minimalistic, a modern waiting room.",
+    "image": "playtime_chair.jpg",
+    "tags": "Performative, Noisy, Modern"
+  },
+  {
+    "title": "DIS/ASSEMBLY CHAIR, Maxwell Fertik (2022)",
+    "description": "This chair series is interested in the concept of assembly/disassembly more than its function. It uses flatness and visual tropes of flat-pack furniture to explore ideas about time, and durability in everyday objects.",
+    "image": "max_fertik_disassembly_chair.jpg",
+    "tags": "Study, Deconstructed, Conceptual"
+  },
+  {
+    "title": "LASSÙ, Alessandro Mendini (1974)",
+    "description": "In 1974, Alessandro Mendini, a journalist, architect, artist and designer, set two identical chairs on fire outside the office of Casabella, the magazine he was then editing.",
+    "image": "lassu_chair.jpg",
+    "tags": "Performative, Art, Violent"
+  },
+  {
+    "title": "PORTRAIT OF PRINCE PHILIP PROSPERO, Diego Velázquez (1659)",
+    "description": "In this painting by Velázquez, the heir to the Spanish throne rests his arm on a chair. It has been argued that this chair symbolizes the throne to which the sickly boy would never ascend (as he would die before taking the position). This is further emphasized by the presence of a healthy dog who occupies the prince’s seat.",
+    "image": "velázquez_prince_philip.jpg",
+    "tags": "Power, Political, Art"
+  },
+  {
+    "title": "SARAH CHAIR, Don Chadwick & Bill Stumpf (c. 1987)",
+    "description": "A mechanical prototype for a chair design for use by the elderly and disabled, the Sarah chair (developed for Herman Miller’s Metaform program) was inspired by the idea of comfort as a “lack of awareness”.",
+    "image": "sarah_chair_bill_stumpf.jpg",
+    "tags": "Medical, Useful, Mechanical, Ergonomic"
+  },
+  {
+    "title": "ERGON CHAIR, Bill Stumpf for Herman Miller (1976)",
+    "description": "The Ergon operational chair is an example of early ergonomics, the application physiological principles to the engineering and design of products. The primary goals of ergonomics are to reduce human error, increase productivity, and enhance safety, health, and comfort with a specific focus on the interaction between the human and equipment.",
+    "image": "ergon_chair_herman_miller.jpg",
+    "tags": "Ergonomic, Work, Study"
+  },
+  {
+    "title": "COMPUTER WORKSTATION VARIABLES",
+    "description": "Physical ergonomics: the science of designing user interaction with equipment and workplaces to fit the user.",
+    "image": "ergonomics_workstation_diagram.jpg",
+    "tags": "Ergonomic, Work, Study"
+  },
+  {
+    "title": "CHAIRLESS CHAIR 2.0 (2019)",
+    "description": "The Chairless Chair is designed for manufacturing environments where workers are required to stand for long periods of time and where traditional chairs would be an obstacle. The wearable exoskeleton allows users to walk around freely but provides support once they get into a bending, squatting or crouching position. The chair’s purpose is reduce the number of instances where employees feel physical strain (thus reducing absences from work and early retirement).",
+    "image": "sapetti_chairless_chair.jpg",
+    "tags": "Ergonomic, Work"
+  },
+  {
+    "title": "CHAIRLESS CHAIR 2.0 (2019)",
+    "description": "The Chairless Chair is designed for manufacturing environments where workers are required to stand for long periods of time and where traditional chairs would be an obstacle. The wearable exoskeleton allows users to walk around freely but provides support once they get into a bending, squatting or crouching position. The chair’s purpose is reduce the number of instances where employees feel physical strain (thus reducing absences from work and early retirement).",
+    "image": "sapetti_chairless_chair2.jpg",
+    "tags": "Ergonomic, Work"
+  },
+  {
+    "title": "HUMANSCALE SEATING GUIDE, Henry Dreyfuss & Associates (1974)",
+    "description": "Ergonomic seating reference chart by American industrial designer Henry Dreyfuss and his studio, Henry Dreyfuss Associates (HDA). Humanscape was an essential reference for designers and architects of the time.",
+    "image": "humanscale_seating.jpg",
+    "tags": "Ergonomic, Instructions"
+  },
+  {
+    "title": "FAT CHAIR (Fettstuhl), Joseph Beuys (1964)",
+    "description": "This sculpture consists of a found chair covered in fat that has been smoothed off on one side at a 45° angle to form a wedge. There is also a wire sticking out of the top of the smooth edge. Beuys had a mystical connection to fat — one constant reference the artist made was to his WW2 plane crash in the Crimea where Tartar tribesmen rescued and restored him to health by wrapping him in fat and felt.",
+    "image": "beuys_fat_chair_1964.jpg",
+    "tags": "Art, Food, Conceptual"
+  },
+  {
+    "title": "SIGMUND FREUD’S OFFICE CHAIR, Felix Augenfeld & Karl Hofmann (1930)",
+    "description": "The framework of Freud’s office chair only supports the body where it is most needed along the arms and the back. Any trace of excessive comfort is absent from the chair’s design, and its form uncannily echoes the shape of a seated human figure.",
+    "image": "freud_chair.jpg",
+    "tags": "Uncomfortable, Anthropomorphic, Spiritual"
+  },
+  {
+    "title": "NOMADIC FURNITURE INSTRUCTIONS, James Hennessey & Victor Papanek (1973)",
+    "description": "Instructions on how to build a redesigned K-Line chair from James Hennessey & Victor Papanek’s Nomadic Furniture, both a “book of instructions and a catalog of access for easy moving.“",
+    "image": "nomadic_furniture_chair.jpg",
+    "tags": "DIY, Instructions, Useful"
+  },
+  {
+    "title": "NOMADIC FURNITURE SIZES, James Hennessey & Victor Papanek (1973)",
+    "description": "Page describing measurement standards for furniture design instructions from James Hennessey & Victor Papanek’s Nomadic Furniture.",
+    "image": "nomadic_furniture_sizes.jpg",
+    "tags": "DIY, Instructions, Useful"
+  },
+  {
+    "title": "SUPERCHAIR, Ken Isaacs (1974)",
+    "description": "This chair structure is from Ken Isaac’s “How to Build Your Own Living Structures”, a book that contains instructions on how to make a variety of flexible experimental interiors, storage units, and a flexible microhouse.",
+    "image": "superchair.jpg",
+    "tags": "DIY, Instructions, Utopian"
+  },
+  {
+    "title": "SUPERCHAIR INSTRUCTIONS, Ken Isaacs (1974)",
+    "description": "Instructions on how to construct the bones for Superchair, an flexible, indoor living structure. This is one of many objects described in Isaac’s 1967 book, “How to Build Your Own Living Structures”.",
+    "image": "superchair_bones.jpg",
+    "tags": "DIY, Instructions, Utopian"
+  },
+  {
+    "title": "IKEA STEFAN CHAIR INSTRUCTIONS (2023)",
+    "description": "The Stefan chair is the cheapest chair available at IKEA. It is made from an unidentified softwood in China and sold in a flat pack and accompanied by instructions for home assembly.",
+    "image": "stefan_chair_instructions.jpg",
+    "tags": "Instructions, Mass-Produced, Boring"
+  },
+  {
+    "title": "CHAIRRY, Gary Panter (c. 1986)",
+    "description": "Chairry was an armchair with eyes on its back, a mouth between its seat cushions, and armrests that flap around. She was a character on the 1980s TV series, Pee-Wee’s Playhouse.",
+    "image": "peewee_chairry.jpg",
+    "tags": "Performative, Bizarre, Anthropomorphic"
+  },
+  {
+    "title": "EMIRATES AIRLINES FIRST CLASS SUITE CHAIR (2023)",
+    "description": "Emirates Airlines’ Boeing 777 first class suite is described as “your own private hotel room in the sky”. It features temperature controls and mood lighting, virtual windows, and “soft leather seating reminiscent of a Mercedes-Benz S-Class.”",
+    "image": "emirates_first_class.jpg",
+    "tags": "Power, Instructions, Mechanical"
+  },
+  {
+    "title": "UNITED AIRLINES SEAT CLASS MAP (2023)",
+    "description": "Seat map for United Airlines Boeing 77 aircraft visualizing seat size and arrangement by class.",
+    "image": "boeing_seat_class.jpg",
+    "tags": "Power, Instructions"
+  },
+  {
+    "title": "TWO STEFAN CHAIRS, Laura Mays (2010)",
+    "description": "The chair is made from two Stefans, one cut in half and a 85 mm slice of the other inserted into the middle of the first one. This makes the chair wider and more suitable for a rocking chair with arms.",
+    "image": "two_stefan_chairs.jpg",
+    "tags": "Study, Mass-Produced, DIY"
+  },
+  {
+    "title": "SEDIA GESTATORIA",
+    "description": "Pope Paul VI carried on the \"sedia gestatoria\" (literally ‘chair for carrying’), a ceremonial throne during the closing liturgy of the Second Vatican Council in St. Peter's Square at the Vatican on December 8, 1965.",
+    "image": "sedia_gestatoria_1.jpg",
+    "tags": "Political, Power, Spiritual, Public"
+  },
+  {
+    "title": "DEPARTMENT CHAIR",
+    "description": "A department chair is a faculty member in a given academic department who is assigned by the dean to manage that department. The chair’s primary role is to examine the operations of the department as a whole and the department’s relationship to their institution more broadly.",
+    "image": "department_chair.jpg",
+    "tags": "Power, Work, Study"
+  },
+  {
+    "title": "DAVID SOLOMON, CHAIRMAN OF THE BOARD (2023)",
+    "description": "David Solomon is Chairman and Chief Executive Officer and a member of the Board of Directors of The Goldman Sachs Group, Inc.",
+    "image": "david_solomon.jpg",
+    "tags": "Power, Politics, Rhetorical"
+  },
+  {
+    "title": "CHAIRMAN MAO ZEDONG (1893 - 1976)",
+    "description": "Mao Zedong was a Chinese politician, theorist, military strategist, poet, and Marxist-Leninist revolutionary. He was the founder of the People's Republic of China which he led as the chairman of the Chinese Communist Party from 1949 until his death in 1976.",
+    "image": "chairman_mao.jpg",
+    "tags": "Power, Politics, Rhetorical"
+  },
+  {
+    "title": "PRAY WAY, Slavs & Tatars (2012)",
+    "description": "A collision of the sacred and the profane—the rahlé, the traditional book stand used for holy books, and the takht (or river-bed), vernacular seating areas used in tea-salons. PrayWay is part installation, part sculpture, part seating area, and all polemical platform.",
+    "image": "prayway_slavsandtatars.jpg",
+    "tags": "Art, Rhetorical, Politics"
+  },
+  {
+    "title": "KITI CHA ENZI CHAIR (19th c.)",
+    "description": "This style of high-backed seat with bone and ivory inlay, known as a “chair of power” or “grandee’s chair” (kiti cha enzi), is a graphic reminder of the history of international trade and conquest in the region known as the Swahili Coast. Its upright form bears strong resemblance to 16th and 17th century chairs imported from Portugal and Spain.",
+    "image": "kiti_cha_enzi_chair.jpg",
+    "tags": "Political, Power"
+  },
+  {
+    "title": "FIRST SELF-PROPELLED WHEELCHAIR (1655)",
+    "description": "The first self-propelled wheelchair was invented by German paraplegic watchmaker, Stephan Farffler in 1655. Built on a three-wheel chassis, it had hand cranks attached to the front wheel.",
+    "image": "first_wheelchair_farffler.jpg",
+    "tags": "Medical, Useful, Transport"
+  },
+  {
+    "title": "JAPANESE RICKSHAWS (c. 1897)",
+    "description": "A pulled rickshaw (from the Japanese ‘rikisha’) is a mode of human-powered transport by which a runner draws a two-wheeled cart which seats one or two people. The rickshaw is believed to have been invented in Japan in the 1860s.",
+    "image": "japanese_rickshaw.jpg",
+    "tags": "Transport, Useful"
+  },
+  {
+    "title": "SOFA BAZAAR, Superstudio for Giovanetti (1968)",
+    "description": "In the 1960s and ’70s, Italian design collective Superstudio protested modern urban design by poking fun at the status quo and imagining its own utopias. The Sofa Bazaar is the first fiberglass sofa that can close like a spaceship.",
+    "image": "sofa_bazaar.jpg",
+    "tags": "Funny, Performative, Art"
+  },
+  {
+    "title": "OCCUPY CHAIR, Sebastian Errazuriz (2012)",
+    "description": "The original “Occupy Chair: Too Big to Fail is Too Big to Allow” was designed to work as a complaint sign during the day and fold out as a chair for protesters to use next to their tents at night. The second stage of the project was to create a version of the chair that could work as a Trojan horse for the 1%.",
+    "image": "occupy_chair.jpg",
+    "tags": "Political, Art, Public"
+  },
+  {
+    "title": "ALL POSSIBLE CHAIRS, Minkyoung Kim (2016)",
+    "description": "A website that represents the Monobloc chair as a comprehensible object that embraces the variety of iterations and its speedy proliferation. If you select a price from the list, All Possible Chairs will show you a single chair that consists of all results matching the criteria. It uses a responsive framework that changes by equally dividing an image into the same number of sections.",
+    "image": "all_possible_chairs.jpg",
+    "tags": "Conceptual, Modular, Art"
+  },
+  {
+    "title": "CHAIR FOR VERY BRIEF VISITS, Bruno Munari (1945)",
+    "description": "This chair by graphic designer Bruno Munari has a sloped seat and is uncomfortable to sit on",
+    "image": "brief_visits_chair_munari.jpg",
+    "tags": "Conceptual, Performative, Art"
+  },
+  {
+    "title": "FREUD’S PSYCHOANALYTIC COUCH",
+    "description": "Freud’s couch was a gift from Madame Benvenisti around 1890. It features a Qashqa’i carpet and embroidered cushions which cover a plain wooden frame. It has come to represent the practice of psychoanalysis itself and is one of the most famous pieces of domestic furniture in the world.",
+    "image": "freud_couch.jpg",
+    "tags": "Performative, Spiritual, Medical"
+  },
+  {
+    "title": "BRONZE CHAIR, Scott Burton (1972)",
+    "description": "This cast bronze replica of a Queen-Anne revival style chair is useable as furniture while at the same time performing as a realist sculptural rendering of a chair (through its associations of bronze with figurative sculpture).",
+    "image": "bronze_chair.jpg",
+    "tags": "Performative, Art, Material"
+  },
+  {
+    "title": "SEGWAY S-POD (2020)",
+    "description": "This motorized pod propels the seated user forward on two wheels. It was designed for use on closed campuses like airports and theme parks.",
+    "image": "segway_pod.jpg",
+    "tags": "Transport, Conceptual, Mechanical"
+  },
+  {
+    "title": "CORONATION CHAIR (1296)",
+    "description": "The Coronation Chair is an ancient wooden throne on which British monarchs sit when they are invested with regalia and crowned at their coronations. It was commissioned in 1296 by King Edward I to contain the coronation stone the Stone of Destiny.",
+    "image": "elizabeth_coronation_chair.jpg",
+    "tags": "Power, Politics, Performative"
+  },
+  {
+    "title": "SUPERONDA SOFA, Archizoom (1966)",
+    "description": "Archizoom’s 1966 Superonda sofa, made of two versatile puzzle pieces, could be configured in many ways.",
+    "image": "superonda_sofa.jpg",
+    "tags": "Modular, Performative"
+  },
+  {
+    "title": "GUFRAM PRATONE CHAIR, Giorgio Ceretti, Pietro Derossi & Riccardo Rosso (1971)",
+    "description": "The Pratone chair is a “radical” take on a sofa—it resembles giant blades of grass and encourages users to experiment with various types of interactions beyond their automatic instinct to sit.",
+    "image": "pratone_chair.jpg",
+    "tags": "Performative, Funny, Bizarre"
+  },
+  {
+    "title": "SESC POMPEIA STOOL, Lina Bo Bardi (1980)",
+    "description": "This brutalist shaped stool was made for the center SESC Pompeia in Sao Paulo and was designed to fit with the architectural style of the building.",
+    "image": "secs_pompeia.jpg",
+    "tags": "Boring, Useful"
+  },
+  {
+    "title": "FUCK IKEA (2019)",
+    "description": "An experimental, process-oriented project by Maxwell Fertik and Grace Carver that attempts to make an “anti-Ivar” chair by deconstructing it, suspending it in cement, and then re-assembling it again.",
+    "image": "fuck_ikea_01.JPG",
+    "tags": "Study, DIY, Art"
+  },
+  {
+    "title": "KŌDŌ SAWAKI SITTING (ZAZEN)",
+    "description": "In Zen temples and monasteries, practitioners sit zazen in a meditation hall referred to as a zendo, each sitting on a cushion called a zafu which may be placed on a low, flat mat called a zabuton.",
+    "image": "kodo_sawaki_zazen.jpg",
+    "tags": "Spiritual, Useful"
+  },
+  {
+    "title": "Cathedra",
+    "description": "The English word “cathedra“ comes from the Latin word for \"armchair\", itself derived from the Greek (καθέδρα). After the 4th century, the term's Roman connotations of authority reserved for the Emperor were adopted by bishops who sat in raised thrones. The word is closely related to the etymology of the word chair. It remains a symbol of the bishop's teaching authority in the church.",
+    "image": "cathedra.jpg",
+    "tags": "Spiritual, Politics, Power"
   }
 ]

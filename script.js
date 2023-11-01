@@ -103,7 +103,6 @@ function setActiveNav() {
 
 // Mobile nav menu
 function toggleMenu() {
-	console.log(1)
 	let navToggle = document.querySelector('.nav-mobile-toggle');
 	let navMenu = document.querySelector('.nav-mobile');
 	if (parseInt(navToggle.dataset.active) == 1) {
@@ -124,4 +123,5 @@ function toggleMenu() {
 // fix masonry not calculating heights correctly
 
 // READER
+// program whole thing
 // on mobile show the tabs as things get navigated to

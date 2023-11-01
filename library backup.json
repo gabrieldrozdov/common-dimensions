@@ -1,0 +1,146 @@
+[
+  {
+    "title": "40/04 Chair",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "40_4_chair_stacked.jpg",
+    "tags": "Mass-Produced, Modern"
+  },
+  {
+    "title": "All Thumbs, Liam Crockard",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "all_thumbs_chair_liam_crockard.jpg",
+    "tags": "Art, Conceptual, Repair"
+  },
+  {
+    "title": "Chair Event from Water Yam, George Brecht (1963)",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "brecht_chair_event.jpg",
+    "tags": "Art, Conceptual, Rhetorical, Performative, Instructions"
+  },
+  {
+    "title": "Chair for Human Use with Chair for Spirit Use (1), Marina Abromović (2012)",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+    "image": "chair_marina_abromovic.jpg",
+    "tags": "Art, Performative, Spiritual"
+  },
+  {
+    "title": "Donald Judd Chairs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "donald_judd_chair.jpg",
+    "tags": "Art, Study, Boring, DIY"
+  },
+  {
+    "title": "DRM Chair",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "drm_chair.jpg",
+    "tags": "Performative, Conceptual"
+  },
+  {
+    "title": "Dust Chair, Bill Carroll (2020)",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "dust_chair_bill_carroll.jpg",
+    "tags": "Waste, Art, Material"
+  },
+  {
+    "title": "Electric Chair",
+    "description": "A June 30, 1888, Scientific American illustration of what the electric chair suggested by the Gerry Commission might look like.",
+    "image": "electric_chair_1.jpg",
+    "tags": "Violent, Power, Political"
+  },
+  {
+    "title": "Autoprogettazione Chair, Enzo Mari",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "enzo_mari_autoprogettazione_chair.jpg",
+    "tags": "DIY, Work, Art, Instructions"
+  },
+  {
+    "title": "Execution Chair",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+    "image": "execution_chair.jpg",
+    "tags": "Violent, Power, Political"
+  },
+  {
+    "title": "Hole Punch Chair, Spenser Atlas (2022)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "hole_punch_spenser_atlas.jpg",
+    "tags": "Rhetorical, Study"
+  },
+  {
+    "title": "Huey Newton’s Throne",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "huey_newton_throne.jpg",
+    "tags": "Political, Power, Performative"
+  },
+  {
+    "title": "Industrial Chairs, Theju Nimmagadda (2022)",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "industrial_chairs_theju_nimmagadda.jpg",
+    "tags": "Study, Material"
+  },
+  {
+    "title": "Monobloc Chair",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "monobloc_chair.jpg",
+    "tags": "Mass-Produced, Useful, Boring"
+  },
+  {
+    "title": "One and Three Chairs, Joseph Kosuth (1965)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "one_and_three_chairs_joseph_kosuth.jpg",
+    "tags": "Art, Conceptual, Rhetorical"
+  },
+  {
+    "title": "Pulley System, Theju Nimmagadda (2022)",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "pulley_system_chair.jpg",
+    "tags": "Study, Material, Conceptual"
+  },
+  {
+    "title": "Rag Chair, Tejo Remy (1991)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "rag_chair.jpg",
+    "tags": "Waste, Material, Performative"
+  },
+  {
+    "title": "Marcel Brauer Chair, Repair Atelier",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "repair_atelier_marcel_brauer.jpg",
+    "tags": "Repair, Modern, Art, Collage"
+  },
+  {
+    "title": "Riveted Chair, Spenser Atlas (2022)",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "rivet_chair.jpg",
+    "tags": "Modular, Material, Study"
+  },
+  {
+    "title": "Thonet Chair (Deconstructed)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "thonet_chair_packaged.jpg",
+    "tags": "Modular, Deconstructed, Mass-Produced, Historical"
+  },
+  {
+    "title": "Woman with mask, Oskar Schlemmer",
+    "description": "Erich Consemüller, Woman with mask by Oskar Schlemmer on Marcel Breuer’s Wassily Chair (ca. 1926; Berlin, Bauhaus-Archiv)",
+    "image": "wassili_chair_bahaus_mask.jpg",
+    "tags": "Modern, Performative, Art"
+  },
+  {
+    "title": "Chair from the SC Johnson Wax Building, Frank Lloyd Wright (1937)",
+    "description": "From 1936 to 1939 Wright designed the SC Johnson & Son Administration Building in Racine, Wisconsin, manufacturer of household cleaning products, notably wood paste wax. He also created over 40 pieces of furniture for the building, including this office chair.",
+    "image": "scjohnson_wax_chair.jpg",
+    "tags": "Modern, Work, Useful"
+  },
+  {
+    "title": "Bel Air Chair, Peter Shire (1981)",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+    "image": "belair_chair.jpg",
+    "tags": "Funny, Bizarre, Noisy"
+  },
+  {
+    "title": "Bonnet Chair, Katie Stout",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "bonnet_chair_katie_stout.jpg",
+    "tags": "Material, Bizarre, Art"
+  }
+]

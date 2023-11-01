@@ -44,6 +44,10 @@ function buildLibrary() {
 			<p class='library-item-tags'>${tags}</p>
 		`
 		libraryItem.addEventListener('click', () => {openLightbox(libraryData[key]['image'])});
+		libraryItem.dataset.show = 0;
+		setTimeout(() => {
+			libraryItem.dataset.show = 1;
+		}, Math.random()*200+100)
 		libraryContent.appendChild(libraryItem);
 		index++;
 	}
@@ -62,8 +66,9 @@ function buildLibrary() {
 	}
 
 	refreshHoverEffects();
-	libraryMasonry();
-	window.addEventListener('resize', libraryMasonry);
+	// OLD: Masonry effects
+	// libraryMasonry();
+	// window.addEventListener('resize', libraryMasonry);
 }
 
 // Add or remove filters

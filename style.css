@@ -155,7 +155,6 @@ body:active .mouse-circle {
 	width: 100%;
 	-ms-overflow-style: none;  /* IE and Edge */
 	scrollbar-width: none;  /* Firefox */
-	z-index: 999;
 }
 .nav-link[data-active="1"] {
 	text-decoration: underline;
@@ -382,6 +381,7 @@ body:active .mouse-circle {
 	height: calc(100dvh - 45px);
 	padding: 20px 65px 20px 20px;
 	overflow: hidden;
+	/* z-index: 100; */
 }
 .home-questions {
 	font-size: 8vw;
@@ -415,14 +415,14 @@ body:active .mouse-circle {
 .home-chair {
 	width: 100vw;
 	height: 100dvh;
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 0;
 	overflow: hidden;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	z-index: 100;
+	z-index: 999;
 	pointer-events: none;
 }
 .home-chair-interactive {
@@ -438,7 +438,7 @@ body:active .mouse-circle {
 	font-family: 'Diatype Mono', monospace;
 	position: absolute;
 	top: 15%;
-	right: 55%;
+	right: 65%;
 	background-color: var(--highlight);
 	padding: 4px 2px 5px 2px;
 	transition: transform .1s;
@@ -560,35 +560,37 @@ body:active .mouse-circle {
 }
 
 /* Library content */
-.library-content {
+/* OLD: masonry style */
+/* .library-content {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 	padding: 20px;
 	gap: 20px;
 	align-items: start;
+} */
+.library-content {
+	columns: 5;
+	padding: 20px;
+	gap: 20px;
 }
 @media only screen and (max-width: 1200px) {
 	.library-content {
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		columns: 4;
 	}
 }
 @media only screen and (max-width: 1000px) {
 	.library-content {
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		columns: 3;
 	}
 }
 @media only screen and (max-width: 800px) {
 	.library-content {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
+		columns: 2;
 	}
 }
 @media only screen and (max-width: 600px) {
 	.library-content {
-		display: grid;
-		grid-template-columns: 1fr;
+		columns: 1;
 	}
 }
 .library-item {
@@ -597,6 +599,8 @@ body:active .mouse-circle {
 	display: flex;
 	flex-direction: column;
 	color: var(--black);
+	margin-bottom: 20px;
+	transition: opacity .2s;
 }
 .library-item:hover {
 	background: unset;
@@ -610,7 +614,6 @@ body:active .mouse-circle {
 }
 .library-item[data-show="0"] {
 	opacity: 0;
-	transition: opacity 0s;
 }
 .library-item h3, .library-item p {
 	font-size: 14px;
@@ -749,6 +752,7 @@ body:active .mouse-circle {
 	bottom: 20px;
 	left: 20px;
 	font-size: 14px;
+	color: var(--highlight);
 	font-family: 'Diatype Mono', monospace;
 }
 @media only screen and (max-width: 800px) {
@@ -777,7 +781,7 @@ body:active .mouse-circle {
 	font-size: 24px;
 }
 .interview-text-header-quote {
-	font-size: 5vw;
+	font-size: 4vw;
 	line-height: 1em;
 	font-weight: normal;
 	position: relative;
@@ -919,7 +923,3 @@ body:active .mouse-circle {
 		max-height: calc(100% - 40px);
 	}
 }
-
-
-/* TODO */
-/* Fix nav */
