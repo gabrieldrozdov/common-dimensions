@@ -1,9 +1,13 @@
 // Animate title questions
 let questions = [
+	'What makes a chair a chair?',
+	'How does the way we sit affect the way we work?',
+	'Are chairs architecture?',
+	'How has the chair come to represent the ultimate design object?',
 	'How can a chair be a quilt?',
-	'Is a chair still a chair even if one cannot sit on it?',
-	'Is a chair an object, a piece of art, or an extension of the human body?',
-	'What’s the point of designing another chair?'
+	'How might a chair symbolize power?',
+	'Why make a chair you can’t sit on?',
+	'Do we even really need to sit?'
 ]
 let homeQuestions = document.querySelector('.home-questions');
 // let currentQuestion = Math.floor(Math.random()*questions.length); // random order
@@ -82,7 +86,7 @@ function detectMobile() {
 			let chairCaption = document.querySelector('.home-chair-caption');
 			let chairClose = document.querySelector('.home-chair-close');
 
-			let chairNumber = Math.floor(mobileLoopPercent*19+1);
+			let chairNumber = Math.floor(mobileLoopPercent*68+1);
 			chair.src = `/assets/home/chair${chairNumber}.png`;
 			let chairRotation = 30 + mobileLoopPercent*-60;
 			chair.style.transform = `rotate(${chairRotation}deg)`;
