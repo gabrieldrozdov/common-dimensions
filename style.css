@@ -1175,9 +1175,11 @@ body:active .mouse-circle {
 	}
 	.reader-articles h2 {
 		font-size: 20px;
+		margin-bottom: 30px;
 	}
 	.reader-articles h3 {
-		font-size: 20px;
+		font-size: 14px;
+		margin-bottom: 30px;
 	}
 	.reader-articles p {
 		font-size: 20px;
