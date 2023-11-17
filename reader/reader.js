@@ -70,6 +70,9 @@ function populateContent() {
 	// Add results to DOM
 	const resultsDOM = document.querySelector('.reader-results');
 	resultsDOM.innerHTML += resultsTemp;
+
+	// Refresh hover effects
+	refreshHoverEffects();
 }
 
 function toggleKeyword(keyword) {
