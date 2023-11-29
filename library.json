@@ -45,13 +45,13 @@
     "title": "DRM CHAIR, Les Sugus (2013)",
     "description": "The DRM Chair can be sat down on 8 times before it self-destructs. A sensor detects when someone sits and decrements a counter. When reaching zero, the self-destruct system is turned on and the structural joints of the chair are melted.",
     "image": "drm_chair.jpg",
-    "tags": "Performative, Conceptual, Mechanical"
+    "tags": "Performative, Conceptual, Automated"
   },
   {
     "title": "DRM CHAIR, Les Sugus (2013)",
     "description": "The DRM Chair can be sat down on 8 times before it self-destructs. A sensor detects when someone sits and decrements a counter. When reaching zero, the self-destruct system is turned on and the structural joints of the chair are melted.",
     "image": "drm_chair2.jpg",
-    "tags": "Performative, Conceptual, Mechanical"
+    "tags": "Performative, Conceptual, Automated"
   },
   {
     "title": "DUST CHAIR, Bill Carroll (2021)",
@@ -150,7 +150,7 @@
     "tags": "Modular, Material, Study"
   },
   {
-    "title": "NO. 14 CHAIR (Deconstructed), Michael Thonet (1859)",
+    "title": "36 NO. 14 THONET CHAIRS (Deconstructed), Michael Thonet (1859)",
     "description": "Also known as the 'bistro chair', No. 14  was first introduced in 1859 and it widely known as the world's first mass-produced item of furniture. Its construction requires only 6 pieces of wood, 10 screws, and 2 nuts. The wood was chemically treated with steam in order to be curved in shape (steam-bending). The No. 14 could be mass-produced by unskilled workers, and disassembled to save space during transportation",
     "image": "thonet_chair_packaged.jpg",
     "tags": "Modular, Deconstructed, Mass-Produced"
@@ -217,9 +217,9 @@
   },
   {
     "title": "SARAH CHAIR, Don Chadwick & Bill Stumpf (c. 1987)",
-    "description": "A mechanical prototype for a chair design for use by the elderly and disabled, the Sarah chair (developed for Herman Miller’s Metaform program) was inspired by the idea of comfort as a “lack of awareness”.",
+    "description": "A Automated prototype for a chair design for use by the elderly and disabled, the Sarah chair (developed for Herman Miller’s Metaform program) was inspired by the idea of comfort as a “lack of awareness”.",
     "image": "sarah_chair_bill_stumpf.jpg",
-    "tags": "Medical, Useful, Mechanical, Ergonomic"
+    "tags": "Medical, Useful, Automated, Ergonomic"
   },
   {
     "title": "ERGON CHAIR, Bill Stumpf for Herman Miller (1976)",
@@ -303,7 +303,7 @@
     "title": "EMIRATES AIRLINES FIRST CLASS SUITE CHAIR (2023)",
     "description": "Emirates Airlines’ Boeing 777 first class suite is described as “your own private hotel room in the sky”. It features temperature controls and mood lighting, virtual windows, and “soft leather seating reminiscent of a Mercedes-Benz S-Class.”",
     "image": "emirates_first_class.jpg",
-    "tags": "Power, Instructions, Mechanical"
+    "tags": "Power, Instructions, Automated"
   },
   {
     "title": "UNITED AIRLINES SEAT CLASS MAP (2023)",
@@ -333,19 +333,19 @@
     "title": "DAVID SOLOMON, CHAIRMAN OF THE BOARD (2023)",
     "description": "David Solomon is Chairman and Chief Executive Officer and a member of the Board of Directors of The Goldman Sachs Group, Inc.",
     "image": "david_solomon.jpg",
-    "tags": "Power, Politics, Rhetorical"
+    "tags": "Power, Political, Rhetorical"
   },
   {
     "title": "CHAIRMAN MAO ZEDONG (1893 - 1976)",
     "description": "Mao Zedong was a Chinese politician, theorist, military strategist, poet, and Marxist-Leninist revolutionary. He was the founder of the People's Republic of China which he led as the chairman of the Chinese Communist Party from 1949 until his death in 1976.",
     "image": "chairman_mao.jpg",
-    "tags": "Power, Politics, Rhetorical"
+    "tags": "Power, political, Rhetorical"
   },
   {
     "title": "PRAY WAY, Slavs & Tatars (2012)",
     "description": "A collision of the sacred and the profane—the rahlé, the traditional book stand used for holy books, and the takht (or river-bed), vernacular seating areas used in tea-salons. PrayWay is part installation, part sculpture, part seating area, and all polemical platform.",
     "image": "prayway_slavsandtatars.jpg",
-    "tags": "Art, Rhetorical, Politics"
+    "tags": "Art, Rhetorical, political"
   },
   {
     "title": "KITI CHA ENZI CHAIR (19th c.)",
@@ -405,13 +405,13 @@
     "title": "SEGWAY S-POD (2020)",
     "description": "This motorized pod propels the seated user forward on two wheels. It was designed for use on closed campuses like airports and theme parks.",
     "image": "segway_pod.jpg",
-    "tags": "Transport, Conceptual, Mechanical"
+    "tags": "Transport, Conceptual, Automated"
   },
   {
     "title": "CORONATION CHAIR (1296)",
     "description": "The Coronation Chair is an ancient wooden throne on which British monarchs sit when they are invested with regalia and crowned at their coronations. It was commissioned in 1296 by King Edward I to contain the coronation stone the Stone of Destiny.",
     "image": "elizabeth_coronation_chair.jpg",
-    "tags": "Power, Politics, Performative"
+    "tags": "Power, political, Performative"
   },
   {
     "title": "SUPERONDA SOFA, Archizoom (1966)",
@@ -444,9 +444,63 @@
     "tags": "Spiritual, Useful"
   },
   {
-    "title": "Cathedra",
+    "title": "CATHEDRA",
     "description": "The English word “cathedra“ comes from the Latin word for \"armchair\", itself derived from the Greek (καθέδρα). After the 4th century, the term's Roman connotations of authority reserved for the Emperor were adopted by bishops who sat in raised thrones. The word is closely related to the etymology of the word chair. It remains a symbol of the bishop's teaching authority in the church.",
     "image": "cathedra.jpg",
-    "tags": "Spiritual, Politics, Power"
+    "tags": "Spiritual, political, Power"
+  },
+  {
+    "title": "CHIPPENDALE CHAIR, Robert Venturi (1985)",
+    "description": "Designed by architect Robert Venturi as part of his Knoll furniture line, this chair references the chippendale style which itself is derivative of Rococo, Chinese, and Gothic styles.",
+    "image": "chippendale_venturi.jpg",
+    "tags": ""
+  },
+  {
+    "title": "MOLECULE CHAIR, Nejc Prah (2021)",
+    "description": "Created by graphic designer, Nejc Prah, the Molecule chair is made up of 36 spheres arranged in a 4x4x7 grid. The system explores the sculptural qualities of a chair as object, rather than ergonomic ones.",
+    "image": "molecular_nejcprah.jpg",
+    "tags": ""
+  },
+  {
+    "title": "MOLECULE CHAIR GRID, Nejc Prah (2021)",
+    "description": "The Molecule chair is made of 36 spheres, but could be constructed with cubes, pyramids, or cylinders instead.  Any of these shapes could act as the primary element that fits into the 4×4×7 grid system which is designed for numerous formal possibilities.",
+    "image": "molecular_nejcprah_grid.jpg",
+    "tags": ""
+  },
+  {
+    "title": "GARDEN CHAIR, Peter Opsvik (1985)",
+    "description": "The Garden Chair challenges the norms of “sitting still.” It’s designed to communicate freer use of the body and was developed more as a provocation rather than a piece of furniture.",
+    "image": "peter_opsvik_garden_chair.jpg",
+    "tags": "Public, Uncomfortable, Performative"
+  },
+  {
+    "title": "Mechanotherapy Machine, Gustaf Zander (1850s)",
+    "description": "Swedish orthopedist Dr. Gustaf Zander’s (1835–1920) medico-mechanical gymnastics machines were a pre-cursor to today’s gym equipment.",
+    "image": "zander_medico_mechanical_1.jpg",
+    "tags": "Medical, Performative, Uncomfortable"
+  },
+  {
+    "title": "Mechanotherapy Machine, Gustaf Zander (1850s)",
+    "description": "Swedish orthopedist Dr. Gustaf Zander’s (1835–1920) medico-mechanical gymnastics machines were a pre-cursor to today’s gym equipment.",
+    "image": "zander_medico_mechanical_2.jpg",
+    "tags": "Medical, Performative, Work"
+  },
+  {
+    "title": "HIGH-RISE BALANCE BALL® STOOL,",
+    "description": "This work stool fits most regular and standing desks and was designed to encourage micro-movements that help strengthen the body’s core, improve circulation, and strengthen posture.",
+    "image": "gaia_ball_stool.jpg",
+    "tags": "Work, Ergonomic, Bizarre"
+  },
+  {
+    "title": "SOLIDI PROTOTYPE CHAIR, Cesare Leonardi (1985)",
+    "description": "Stained plywood prototype chair by Italian Architect Cesare Leonardi.",
+    "image": "cesare_leonardi_chair.jpg",
+    "tags": "Uncomfortable, Art, Funny"
+  },
+  {
+    "title": "ANTIC MEET, Merce Cunningham (1958)",
+    "description": "Merce Cunningham performing with a chair strapped to his back. This piece was a collaboration between Cunningham and his friend, artist Robert Rauschenberg. The performance was staged to the music of Cunningham’s longtime lover, artist John Cage.",
+    "image": "merce_cunningham_chair.jpg",
+    "tags": "Performative, Anthropomorphic, Art"
   }
 ]
