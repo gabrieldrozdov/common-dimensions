@@ -813,10 +813,10 @@ body:active .mouse-circle {
 	color: var(--black);
 }
 .interview-text-content a:hover {
-	opacity: .5;
+	color: var(--yellow);
 }
 .interview-text-content a:active {
-	opacity: .25;
+	opacity: .5;
 }
 .interview-text-highlight {
 	background-color: var(--highlight);

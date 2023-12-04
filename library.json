@@ -159,13 +159,13 @@
     "title": "WOMAN WEARING A MASK SEATED ON A B3 CHAIR, Oskar Schlemmer (1926)",
     "description": "This photo by Oskar Schlemmer features a masked woman seated on Marcel Breuer’s B3 Club Chair (also known as the Wassily Chair) ca. 1926.",
     "image": "wassili_chair_bahaus_mask.jpg",
-    "tags": "Modern, Performative, Art"
+    "tags": "Performative, Art"
   },
   {
     "title": "SC JOHNSON WAX BUILDING CHAIR, Frank Lloyd Wright (1937)",
     "description": "From 1936 to 1939 Wright designed the SC Johnson & Son Administration Building in Racine, Wisconsin, manufacturer of household cleaning products, notably wood paste wax. He also created over 40 pieces of furniture for the building, including this office chair.",
     "image": "scjohnson_wax_chair.jpg",
-    "tags": "Modern, Work, Useful"
+    "tags": "Work, Useful"
   },
   {
     "title": "BEL AIR CHAIR, Peter Shire (1982)",
@@ -193,7 +193,7 @@
   },
   {
     "title": "WHOOSHY CHAIRS, Jacques Tati’s Playtime (1967)",
-    "description": "Monsieur Hulot is disturbed by curiously noisy chairs while he waits alone in an cold, minimalistic, a modern waiting room.",
+    "description": "Performative, Noisy, Funny",
     "image": "playtime_chair.jpg",
     "tags": "Performative, Noisy, Modern"
   },
@@ -339,13 +339,13 @@
     "title": "CHAIRMAN MAO ZEDONG (1893 - 1976)",
     "description": "Mao Zedong was a Chinese politician, theorist, military strategist, poet, and Marxist-Leninist revolutionary. He was the founder of the People's Republic of China which he led as the chairman of the Chinese Communist Party from 1949 until his death in 1976.",
     "image": "chairman_mao.jpg",
-    "tags": "Power, political, Rhetorical"
+    "tags": "Power, Political, Rhetorical"
   },
   {
     "title": "PRAY WAY, Slavs & Tatars (2012)",
     "description": "A collision of the sacred and the profane—the rahlé, the traditional book stand used for holy books, and the takht (or river-bed), vernacular seating areas used in tea-salons. PrayWay is part installation, part sculpture, part seating area, and all polemical platform.",
     "image": "prayway_slavsandtatars.jpg",
-    "tags": "Art, Rhetorical, political"
+    "tags": "Art, Rhetorical, Political"
   },
   {
     "title": "KITI CHA ENZI CHAIR (19th c.)",
@@ -411,7 +411,7 @@
     "title": "CORONATION CHAIR (1296)",
     "description": "The Coronation Chair is an ancient wooden throne on which British monarchs sit when they are invested with regalia and crowned at their coronations. It was commissioned in 1296 by King Edward I to contain the coronation stone the Stone of Destiny.",
     "image": "elizabeth_coronation_chair.jpg",
-    "tags": "Power, political, Performative"
+    "tags": "Power, Political, Performative"
   },
   {
     "title": "SUPERONDA SOFA, Archizoom (1966)",
@@ -447,25 +447,25 @@
     "title": "CATHEDRA",
     "description": "The English word “cathedra“ comes from the Latin word for \"armchair\", itself derived from the Greek (καθέδρα). After the 4th century, the term's Roman connotations of authority reserved for the Emperor were adopted by bishops who sat in raised thrones. The word is closely related to the etymology of the word chair. It remains a symbol of the bishop's teaching authority in the church.",
     "image": "cathedra.jpg",
-    "tags": "Spiritual, political, Power"
+    "tags": "Spiritual, Political, Power"
   },
   {
     "title": "CHIPPENDALE CHAIR, Robert Venturi (1985)",
     "description": "Designed by architect Robert Venturi as part of his Knoll furniture line, this chair references the chippendale style which itself is derivative of Rococo, Chinese, and Gothic styles.",
     "image": "chippendale_venturi.jpg",
-    "tags": ""
+    "tags": "Art, Collage"
   },
   {
     "title": "MOLECULE CHAIR, Nejc Prah (2021)",
     "description": "Created by graphic designer, Nejc Prah, the Molecule chair is made up of 36 spheres arranged in a 4x4x7 grid. The system explores the sculptural qualities of a chair as object, rather than ergonomic ones.",
     "image": "molecular_nejcprah.jpg",
-    "tags": ""
+    "tags": "Study"
   },
   {
     "title": "MOLECULE CHAIR GRID, Nejc Prah (2021)",
     "description": "The Molecule chair is made of 36 spheres, but could be constructed with cubes, pyramids, or cylinders instead.  Any of these shapes could act as the primary element that fits into the 4×4×7 grid system which is designed for numerous formal possibilities.",
     "image": "molecular_nejcprah_grid.jpg",
-    "tags": ""
+    "tags": "Study"
   },
   {
     "title": "GARDEN CHAIR, Peter Opsvik (1985)",
