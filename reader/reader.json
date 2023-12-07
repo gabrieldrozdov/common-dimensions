@@ -1,6 +1,6 @@
 [
   {
-    "quote": "Machines are simulated organs of the human body. The lever, for example, is an extended arm. It increases the ability of the arm to lift and ignores all the other functions the arm has. It is more 'stupid' than the arm, but it therefore reaches further and lifts heavier loads.",
+    "quote": "Machines are simulated organs of the human body. The lever, for example, is an extended arm. It increases the ability of the arm to lift and ignores all the other functions the arm has. It is more ‘stupid’ than the arm, but it therefore reaches further and lifts heavier loads.",
     "keyword": "Lever",
     "citation": "<em>The Shape of Things (The Lever Strikes Back)</em>, Vilém Flusser, 1993",
     "article": "lever-strikes-back.html"
@@ -48,7 +48,7 @@
     "article": "the-factory.html"
   },
   {
-    "quote": "As soon as a tool - e.g. a hand-axe - is introduced, one can speak of a new form of human existence. A human being surrounded by tools, such as hand-axes, arrow-heads, needles, knives - in short, culture - is no longer at home in the environment in the way that primitive man using his hands is: He is alienated from the environment, and he is both protected and imprisoned by culture.",
+    "quote": "As soon as a tool — e.g. a hand-axe — is introduced, one can speak of a new form of human existence. A human being surrounded by tools, such as hand-axes, arrow-heads, needles, knives — in short, culture — is no longer at home in the environment in the way that primitive man using his hands is: He is alienated from the environment, and he is both protected and imprisoned by culture.",
     "keyword": "Tool",
     "citation": "<em>The Shape of Things</em> (The Factory), Vilém Flusser, 1993",
     "article": "the-factory.html"
@@ -62,6 +62,12 @@
   {
     "quote": "The techniques of the body can be classified according to their efficiency, i.e. according to the results of training. Training, like the assembly of a machine, is the search for, the acquisition of an efficiency. Here it is a human efficiency.",
     "keyword": "Efficiency",
+    "citation": "<em>Techniques of the Body</em> (from Chapter Two: Principles of the Classification of Techniques of the Body”), Marcel Mauss, 1934",
+    "article": "techniques-of-the-body-efficiency.html"
+  },
+  {
+    "quote": "The techniques of the body can be classified according to their efficiency, i.e. according to the results of training.",
+    "keyword": "Body",
     "citation": "<em>Techniques of the Body</em> (from Chapter Two: Principles of the Classification of Techniques of the Body”), Marcel Mauss, 1934",
     "article": "techniques-of-the-body-efficiency.html"
   },
@@ -114,7 +120,7 @@
     "article": "enzo-mari-comment.html"
   },
   {
-    "quote": "The system is simple not only because of the nail but also by the simplified cut of the saw. There are no diagonal or complex cuts, or anything needing joints. Besides, the simple orthogonal cuts don't even need to be well executed.",
+    "quote": "The system is simple not only because of the nail but also by the simplified cut of the saw. There are no diagonal or complex cuts, or anything needing joints. Besides, the simple orthogonal cuts don’t even need to be well executed.",
     "keyword": "System",
     "citation": "<em>Autoprogettazione?</em> (A critical-ideological debate between E. Mari and E. Facchinelli), 1975",
     "article": "critical-ideological-debate.html"
@@ -138,7 +144,7 @@
     "article": "critical-ideological-debate.html"
   },
   {
-    "quote": "industry exists and that's a positive thing, industry should be kept occupied, be managed, made use of, tools should not be rejected.. these objects are not intended as alternatives to industrial ones, their intent instead is to be a kind of critical exercise on design, and this is the reason why this project was called self-design, not self-production.",
+    "quote": "industry exists and that’s a positive thing, industry should be kept occupied, be managed, made use of, tools should not be rejected.. these objects are not intended as alternatives to industrial ones, their intent instead is to be a kind of critical exercise on design, and this is the reason why this project was called self-design, not self-production.",
     "keyword": "Self-Design",
     "citation": "<em>Autoprogettazione?</em> (A critical-ideological debate between E. Mari and E. Facchinelli), 1975",
     "article": "critical-ideological-debate.html"
@@ -156,7 +162,7 @@
     "article": "against-chairs.html"
   },
   {
-    "quote": "In the process of de-intellectualized actions we can see the body as a tool, apart from a specific culture of the body, simulating and retracing the process that leads progressively from discovery to recognition, to purposed and non-purposed use of one's body.",
+    "quote": "In the process of de-intellectualized actions we can see the body as a tool, apart from a specific culture of the body, simulating and retracing the process that leads progressively from discovery to recognition, to purposed and non-purposed use of one’s body.",
     "keyword": "Body",
     "citation": "<em>Global Tools Report</em> (The Body), Andrea Branzi, Gaetano Pesce, Alessandro\nMendini, Franco Raggi, Ettore Sottsass Jr., 1974",
     "article": "global-tools.html"
