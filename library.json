@@ -54,7 +54,7 @@
     "tags": "Performative, Conceptual, Automated"
   },
   {
-    "title": "DUST CHAIR, Bill Carroll (2021)",
+    "title": "DUST CHAIR, Bill Carroll (2022)",
     "description": "Dust Chair is an exploration in using discarded pieces to create a meaningful whole. Informed by the process of quilting, ‘dust chair’ is made up of sawdust and wood chips, patched together and shaped into a simple chair form.",
     "image": "dust_chair_bill_carroll.jpg",
     "tags": "Waste, Art, Material"
@@ -63,7 +63,7 @@
     "title": "ELECTRIC CHAIR (1888)",
     "description": "A June 30, 1888, Scientific American illustration of what the electric chair suggested by the Gerry Commission might look like.",
     "image": "electric_chair_1.jpg",
-    "tags": "Violent, Power, Political"
+    "tags": "Political,"
   },
   {
     "title": "SEDIA 1 (Autoprogettazione), Enzo Mari (1974)",
@@ -133,7 +133,7 @@
   },
   {
     "title": "RAG CHAIR, Tejo Remy (1991)",
-    "description": "Tejo Remy rag chair is intended for personalization: people provide their own rags, in return for which they receive a ‘treasured chest of memories’. In some instances, Remy makes a copy of the chair using the contents of fifteen bags worth of clothes from a second-hand shop – reusing as a way of criticising overconsumption.",
+    "description": "Tejo Remy’s rag chair is intended for personalization: people provide their own rags and in return receive a ‘treasure chest of memories.’ In some instances, Remy makes a copy of the chair using the contents of fifteen bags worth of clothes from a second-hand shop reusing as a way of criticizing overconsumption.",
     "image": "rag_chair.jpg",
     "tags": "Waste, Material, Performative"
   },
@@ -195,7 +195,7 @@
     "title": "WHOOSHY CHAIRS, Jacques Tati’s Playtime (1967)",
     "description": "Performative, Noisy, Funny",
     "image": "playtime_chair.jpg",
-    "tags": "Performative, Noisy, Modern"
+    "tags": "Performative, Noisy"
   },
   {
     "title": "DIS/ASSEMBLY CHAIR, Maxwell Fertik (2022)",
@@ -502,5 +502,47 @@
     "description": "Merce Cunningham performing with a chair strapped to his back. This piece was a collaboration between Cunningham and his friend, artist Robert Rauschenberg. The performance was staged to the music of Cunningham’s longtime lover, artist John Cage.",
     "image": "merce_cunningham_chair.jpg",
     "tags": "Performative, Anthropomorphic, Art"
+  },
+  {
+    "title": "UNITED NATIONS SECURITY COUNCIL (1945-Present)",
+    "description": "The UN Security Council is charged with ensuring international peace and security. It consists of 15 members, of which 5 are permanent: China, France, Russia, the United Kingdom, and the United States. These states can veto any substantive resolution",
+    "image": "security_council_un.jpg",
+    "tags": "Political, Power"
+  },
+  {
+    "title": "LA-Z-BOY (1927)",
+    "description": "In 1927,  Edward M. Knabusch and Edwin J. Shoemaker invented a wood-slat porch chair with a reclining mechanism that eventually evolved in to the La-Z-Boy recliner, a hybrid sofa-chair made for relaxing.",
+    "image": "la_z_boy_1940.jpg",
+    "tags": "Utopian, Boring"
+  },
+  {
+    "title": "WEDDING DRESS RAG CHAIR, Tejo Remy (1990s)",
+    "description": "This version of Tejo Remy’s Rag Chair is handcrafted from over 100 pounds of customer supplied wedding dresses bound together with steel straps.",
+    "image": "wedding-dress-rag-chair.jpg",
+    "tags": "Waste, Rhetorical, Material"
+  },
+  {
+    "title": "PYRAMID CHAIR, Walter De Maria (1966)",
+    "description": "Pyramid Chair is a rectangular black plastic and metal-frame chair set atop a black wood pyramidal form (stepped on three sides) that is reminiscent of Maya pyramid structures at Uxmal.",
+    "image": "pyramid_chair_de_maria.jpg",
+    "tags": "Spiritual, Art, Performative"
+  },
+  {
+    "title": "UNTITLED CARDBOARD CHAIR, c. 2010s",
+    "description": "Anonymous (Kings County, NY) chair made out of cardboard from “Various Artists Make–Do” (May 19 – 27, 2023) at the Marta Gallery in Los Angeles, CA.",
+    "image": "cardboard-chair.jpg",
+    "tags": "Material, Useful, Art"
+  },
+  {
+    "title": "UNTITLED RUBBER CHAIR, c. 1990s",
+    "description": "Anonymous (San Bernardino County, CA) chair made out of tires from “Various Artists Make–Do” (May 19 – 27, 2023) at the Marta Gallery in Los Angeles, CA.",
+    "image": "rubber-chair.jpg",
+    "tags": "Material, Useful, Art"
+  },
+  {
+    "title": "CCC RUSSIA CHAIR, Matteo Guarnaccia and Harry Nuriev (2020)",
+    "description": "For his project, Cross Cultural Chairs, Sicilian designer Matteo Guarnaccia went around the world to portray each local culture in one chair, collaborating with native design studios and their artisans. This is the Russia chair.",
+    "image": "ccc_russia_chair.jpg",
+    "tags": "Study, Art, Public"
   }
 ]
