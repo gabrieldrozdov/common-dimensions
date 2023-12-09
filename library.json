@@ -387,7 +387,7 @@
     "title": "CHAIR FOR VERY BRIEF VISITS, Bruno Munari (1945)",
     "description": "This chair by graphic designer Bruno Munari has a sloped seat and is uncomfortable to sit on",
     "image": "brief_visits_chair_munari.jpg",
-    "tags": "Conceptual, Performative, Art"
+    "tags": "Conceptual, Performative, Rhetorical"
   },
   {
     "title": "FREUD’S PSYCHOANALYTIC COUCH",
@@ -544,5 +544,17 @@
     "description": "For his project, Cross Cultural Chairs, Sicilian designer Matteo Guarnaccia went around the world to portray each local culture in one chair, collaborating with native design studios and their artisans. This is the Russia chair.",
     "image": "ccc_russia_chair.jpg",
     "tags": "Study, Art, Public"
+  },
+  {
+    "title": "CCC RUSSIA CHAIR, Jose de la O, Adrian Marfil, and Matteo Guarnaccia (2020)",
+    "description": "For his project, Cross Cultural Chairs, Sicilian designer Matteo Guarnaccia went around the world to portray each local culture in one chair, collaborating with native design studios and their artisans. This is the Mexico chair.",
+    "image": "ccc_mexico_chair.jpg",
+    "tags": "Study, Art, Public"
+  },
+  {
+    "title": "UP5 ARMCHAIR AND UP6 STOOL, Gaetano Pesce (1969)",
+    "description": "The Up5 armchair, designed in the image of a woman's body, is connected to the ball-shaped Up6 footstool by a chain. The aim of the ball and chain symbolism in the Up5 was to express the idea that women are \"prisoners of their own making\".",
+    "image": "up5_armchair.jpg",
+    "tags": "Political, Discursive, Art"
   }
 ]
