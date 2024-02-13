@@ -43,7 +43,7 @@ function buildLibrary() {
 			<p>${libraryData[key]['description']}</p>
 			<p class='library-item-tags'>${tags}</p>
 		`
-		libraryItem.addEventListener('click', () => {openLightbox(libraryData[key]['image'])});
+		libraryItem.addEventListener('click', () => {openLightbox(key)});
 		libraryItem.dataset.show = 0;
 		setTimeout(() => {
 			libraryItem.dataset.show = 1;
@@ -181,10 +181,16 @@ function libraryMasonry() {
 }
 
 // Lightbox
-function openLightbox(img) {
+function openLightbox(key) {
 	let lightbox = document.querySelector('.lightbox');
-	let lightboxImage = lightbox.querySelector('img');
-	lightboxImage.src = '/assets/library/' + img;
+	let lightboxImage = lightbox.querySelector('.lightbox-image');
+	let lightboxTitle = lightbox.querySelector('.lightbox-title');
+	let lightboxDesc = lightbox.querySelector('.lightbox-desc');
+	let lightboxTags = lightbox.querySelector('.lightbox-tags');
+	lightboxImage.src = '/assets/library/' + libraryData[key]["image"];
+	lightboxTitle.innerText = libraryData[key]["title"];
+	lightboxDesc.innerText = libraryData[key]["description"];
+	lightboxTags.innerText = libraryData[key]["tags"];
 	lightbox.dataset.active = 1;
 	setTimeout(() => {
 		document.addEventListener('click', closeLightbox);

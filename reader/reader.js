@@ -87,9 +87,15 @@ function toggleKeyword(keyword) {
 	}
 
 	handlePlaceholder();
+
+	// Mobile styling
+	const reader = document.querySelector('.reader');
+	if (parseInt(reader.dataset.mobile) == 0) {
+		reader.dataset.mobile = 1;
+	}
 }
 
-// Adjust placeholder image
+// Adjust placeholder image (some old code from alternate layout)
 function handlePlaceholder() {
 	const placeholder = document.querySelector('.reader-placeholder');
 	if (parseInt(placeholder.dataset.state) != 2) {
@@ -148,4 +154,10 @@ function openArticle(article, keyword, button) {
 	}
 
 	handlePlaceholder();
+
+	// Mobile styling
+	const reader = document.querySelector('.reader');
+	if (parseInt(reader.dataset.mobile) == 1) {
+		reader.dataset.mobile = 2;
+	}
 }

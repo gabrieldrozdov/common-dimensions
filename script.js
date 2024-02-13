@@ -92,36 +92,28 @@ function setActiveNav() {
 	let paths = window.location.pathname.split('/').filter(text => text.length > 0);
 	if (paths.length > 0) {
 		for (let path of paths) {
-			let activeNav = document.querySelector("#nav-" + path);
-			activeNav.dataset.active = 1;
+			let activeNavs = document.querySelectorAll(`[data-id="nav-${path}"]`);
+			for (nav of activeNavs) {
+				nav.dataset.active = 1;
+			}
 		}
 	} else {
-		let activeNav = document.querySelector("#nav-home");
-		activeNav.dataset.active = 1;
+		let activeNavs = document.querySelectorAll("[data-id='nav-home']");
+		for (nav of activeNavs) {
+			nav.dataset.active = 1;
+		}
 	}
 }
 
 // Mobile nav menu
 function toggleMenu() {
-	let navToggle = document.querySelector('.nav-mobile-toggle');
-	let navMenu = document.querySelector('.nav-mobile');
-	if (parseInt(navToggle.dataset.active) == 1) {
-		navToggle.dataset.active = 0;
-		navMenu.dataset.active = 0;
+	let nav = document.querySelector('.nav');
+	let navMobile = document.querySelector('.nav-mobile');
+	if (parseInt(nav.dataset.active) == 1) {
+		nav.dataset.active = 0;
+		navMobile.dataset.active = 0;
 	} else {
-		navToggle.dataset.active = 1;
-		navMenu.dataset.active = 1;
+		nav.dataset.active = 1;
+		navMobile.dataset.active = 1;
 	}
 }
-
-
-
-
-// TODO
-// library lightbox add text below
-// seriously need to fix navbar styling it's a mess
-// fix masonry not calculating heights correctly
-
-// READER
-// program whole thing
-// on mobile show the tabs as things get navigated to

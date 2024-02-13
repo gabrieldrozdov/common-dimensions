@@ -7,32 +7,32 @@
 </div>
 
 <nav class="nav">
-	<h1 id="nav-home"><a href="/" class="nav-link">Common Dimensions</a></h1>
-	<div class="nav-mobile-toggle hover" onclick="toggleMenu();">Menu</div>
-	<div class="nav-mobile">
-		<a href="/library/" id="nav-library" class="nav-link">Library</a>
+	<h1 data-id="nav-home"><a href="/" class="nav-link">Common Dimensions</a></h1>
+	<div class="nav-toggle hover" onclick="toggleMenu();">Menu</div>
+	<div class="nav-desktop">
+		<a href="/library/" data-id="nav-library" class="nav-link">Library</a>
 		<div class="nav-submenu">
-			<div class="nav-submenu-label nav-link" id="nav-interviews">Interviews</div>
+			<div class="nav-submenu-label nav-link" data-id="nav-interviews">Interviews</div>
 			<div class="nav-submenu-links">
-				<a href="/interviews/maxwell-fertik/" id="nav-maxwell-fertik" class="nav-link">
+				<a href="/interviews/maxwell-fertik/" data-id="nav-maxwell-fertik" class="nav-link">
 					<span>10.31.2023</span>
-					<span>Maxwell Fertik, <em>Dis/Assembly Chairs</em></span>
+					<span>Maxwell Fertik,<br><em>Dis/Assembly Chairs</em></span>
 				</a>
-				<a href="/interviews/markus-berger/" id="nav-markus-berger" class="nav-link">
+				<a href="/interviews/markus-berger/" data-id="nav-markus-berger" class="nav-link">
 					<span>12.05.2023</span>
-					<span>Markus Berger, <em>The Repair Atelier</em></span>
+					<span>Markus Berger,<br><em>The Repair Atelier</em></span>
 				</a>
-				<a href="/interviews/bill-carroll/" id="nav-bill-carroll" class="nav-link">
+				<a href="/interviews/bill-carroll/" data-id="nav-bill-carroll" class="nav-link">
 					<span>12.07.2023</span>
-					<span>Bill Carroll, <em>Dust Chair</em></span>
+					<span>Bill Carroll,<br><em>Dust Chair</em></span>
 				</a>
-				<a href="/interviews/spenser-atlas/" id="nav-spenser-atlas" class="nav-link">
+				<a href="/interviews/spenser-atlas/" data-id="nav-spenser-atlas" class="nav-link">
 					<span>COMING SOON</span>
-					<span>Spenser Atlas, <em>Riveted Chair</em></span>
+					<span>Spenser Atlas,<br><em>Riveted Chair</em></span>
 				</a>
 			</div>
 		</div>
-		<a href="/reader/" id="nav-reader" class="nav-link">Reader</a>
+		<a href="/reader/" data-id="nav-reader" class="nav-link">Reader</a>
 	</div>
 	<div class="nav-spacer"></div>
 	<button class="nav-plus" onclick="openInfo();">
@@ -40,6 +40,32 @@
 		<div class="nav-plus-y"></div>
 	</button>
 </nav>
+
+<div class="nav-mobile">
+	<a href="/library/" data-id="nav-library" class="nav-link">Library</a>
+	<div class="nav-submenu">
+		<div class="nav-submenu-label nav-link" data-id="nav-interviews">Interviews</div>
+		<div class="nav-submenu-links">
+			<a href="/interviews/maxwell-fertik/" data-id="nav-maxwell-fertik" class="nav-link">
+				<span>10.31.2023</span>
+				<span>Maxwell Fertik, <em>Dis/Assembly Chairs</em></span>
+			</a>
+			<a href="/interviews/markus-berger/" data-id="nav-markus-berger" class="nav-link">
+				<span>12.05.2023</span>
+				<span>Markus Berger, <em>The Repair Atelier</em></span>
+			</a>
+			<a href="/interviews/bill-carroll/" data-id="nav-bill-carroll" class="nav-link">
+				<span>12.07.2023</span>
+				<span>Bill Carroll, <em>Dust Chair</em></span>
+			</a>
+			<a href="/interviews/spenser-atlas/" data-id="nav-spenser-atlas" class="nav-link">
+				<span>COMING SOON</span>
+				<span>Spenser Atlas, <em>Riveted Chair</em></span>
+			</a>
+		</div>
+	</div>
+	<a href="/reader/" data-id="nav-reader" class="nav-link">Reader</a>
+</div>
 
 <div class="info" data-open="0">
 	<div class="info-content">
